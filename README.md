@@ -9,4 +9,4 @@ I'm Vishnu S Mani.\
 🌐   HTML CSS JavaScript Bootstrap Node.js React Express\
 🛢   MongoDB\
 ⚙️   Git GitHub\
-🔧   Visual Studio Code\
+🔧   Visual Studio Code
