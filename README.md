@@ -1,5 +1,5 @@
 ### Hi there 👋
-###I'm Vishnu S Mani. 
+I'm Vishnu S Mani. 
 
 💻  About Me
 🤔   Exploring new technologies and developing web application for fun.
