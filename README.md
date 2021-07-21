@@ -6,7 +6,7 @@ I'm Vishnu S Mani.\
 🎓   Studying Software Engineering at VIT Chennai.\
 <br>
 🛠  Tech Stack\
-🌐   HTML CSS JavaScript Bootstrap Node.js React Express\
+🌐   HTML CSS JavaScript Bootstrap Node.js React Express Redux Three.js\
 🛢   MongoDB\
 ⚙️   Git GitHub\
 🔧   Visual Studio Code
